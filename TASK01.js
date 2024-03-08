@@ -1,4 +1,4 @@
-let name = "Maria Luisa Tinaja";
+let name = "JESREL S. PILIPINO";
 let age = 30; 
 let isStudent = false; 
 
